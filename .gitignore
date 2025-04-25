@@ -65,3 +65,7 @@ coverage.xml
 *.sqlite3
 api_key.txt
 sc section.docx
+
+# Docker
+.docker/
+docker-compose.override.yml
