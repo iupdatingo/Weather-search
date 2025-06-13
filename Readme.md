@@ -1,4 +1,4 @@
-# Weather Search Application
+# Weather Forecast App
 
 This project is a simple Flask-based web application that retrieves weather information for a given city using the OpenWeather API.
 
