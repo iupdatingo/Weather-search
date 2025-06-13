@@ -1,4 +1,4 @@
-# Weather Search Application
+# Weather Forecast App
 
 This project is a simple Flask-based web application that retrieves weather information for a given city using the OpenWeather API.
 
@@ -7,11 +7,20 @@ This project is a simple Flask-based web application that retrieves weather info
 - Displays temperature, humidity, weather conditions, and more.
 
 ## Project Structure
-├── api_key.txt # File containing your OpenWeather API key 
-├── app.py # Flask application script 
-├── jscript.java # Frontend JavaScript logic for handling user input 
-└── templates 
-  └── index.html # HTML template for the web interface
+
+├── api_key.txt # File containing your OpenWeather API key
+
+├── app.py # Flask application script
+
+├── jscript.js # Frontend JavaScript logic for handling user input
+
+├── templates
+
+│   └── index.html # HTML template for the web interface
+
+├── static
+
+│   └── style.css # CSS file for styling the web interface
 
 ---
 
